@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog>
+    
+    <cd>
+        <title>hide your heart</title>
+        <artist>bonnie tyler</artist>
+        <country>uk</country>
+        <company>vasr</company>
+        <price>9.90</price>
+        <year>1988</year>
+    </cd>
+
+    <cd>
+        <title>greatest hits</title>
+        <artist>dolly parton</artist>
+        <country>usa</country>
+        <company>rca</company>
+        <price>9.90</price>
+        <year>1982</year>
+    </cd>
+
+    <cd>
+        <title>still got the blues</title>
+        <artist>abc</artist>
+        <country>abc</country>
+        <company>abc</company>
+        <price>12.9</price>
+        <year>2022</year>
+    </cd>
+    
+    <cd>
+        
+        <title>eros &amp; eros</title>
+        <artist>eros ramazzotti</artist>
+        <country>eu</country>
+        <company>bmg</company>
+        <price>9.90</price>
+        <year>1997</year>
+    </cd>
+    <cd>
+        
+        <title>"esto tiene que salir bien"</title>
+        <artist>bee gees</artist>
+        <country>uk</country>
+        <company>polydor</company>
+        <price>10.90</price>
+        <year>1998</year>
+    </cd>
+    <cd>
+        
+        <title>'esto tiene que salir muy bien tambien'</title>
+        <artist>dr.hook</artist>
+        <country>uk</country>
+        <company>cbs</company>
+        <price>8.10</price>
+        <year>1973</year>
+    </cd>
+    <cd>
+        <title>maggie may</title>
+        <artist>rod stewart</artist>
+        <country>uk</country>
+        <company>pickwick</company>
+        <price>8.50</price>
+        <year>1990</year>
+    </cd>
+    <cd>
+        <title>romanza</title>
+        <artist>andrea bocelli</artist>
+        <country>eu</country>
+        <company>polydor</company>
+        <price>10.80</price>
+        <year>1996</year>
+    </cd>
+    <cd>
+        <title>when a man loves a woman</title>
+        <artist>percy sledge</artist>
+        <country>usa</country>
+        <company>atlantic</company>
+        <price>8.70</price>
+        <year>1987</year>
+    </cd>
+    <cd>
+        <title>black angel</title>
+        <artist>savage rose</artist>
+        <country>eu</country>
+        <company>mega</company>
+        <price>10.90</price>
+        <year>1995</year>
+    </cd>
+    <cd>
+        <title>1999 grammy nominees</title>
+        <artist>many</artist>
+        <country>usa</country>
+        <company>grammy</company>
+        <price>10.30</price>
+        <year>1999</year>
+    </cd>
+    <cd>
+        <title>for the good times</title>
+        <artist>kenny rogers</artist>
+        <country>uk</country>
+        <company>mucik master</company>
+        <price>8.70</price>
+        <year>1995</year>
+    </cd>
+    <cd>
+        <title>big willie style</title>
+        <artist>jonh lennon</artist>
+        <country>usa</country>
+        <company>columbia</company>
+        <price>9.90</price>
+        <year>1997</year>
+    </cd>
+    <cd>
+        <title>tupelo honey</title>
+        <artist>van morrison</artist>
+        <country>uk</country>
+        <company>polydor</company>
+        <price>8.20</price>
+        <year>1971</year>
+    </cd>
+    <cd>
+        <title>soulsville</title>
+        <artist>jorn hoel</artist>
+        <country>norway</country>
+        <company>wea</company>
+        <price>7.90</price>
+        <year>1996</year>
+    </cd>
+    <cd>
+        <title>the very best of</title>
+        <artist>cat stevens</artist>
+        <country>uk</country>
+        <company>island</company>
+        <price>8.90</price>
+        <year>1990</year>
+    </cd>
+    <cd>
+        <title>stop</title>
+        <artist>sam brown</artist>
+        <country>uk</country>
+        <company>a and m</company>
+        <price>8.90</price>
+        <year>1988</year>
+    </cd>
+    <cd>
+        <title>bridge of spies</title>
+        <artist>t'pau</artist>
+        <country>uk</country>
+        <company>siren</company>
+        <price>7.90</price>
+        <year>1987</year>
+    </cd>
+    <cd>
+        <title>private dancer</title>
+        <artist>tina turner</artist>
+        <country>uk</country>
+        <company>capitol</company>
+        <price>8.90</price>
+        <year>1983</year>
+    </cd>
+    <cd>
+        <title>midt om natten</title>
+        <artist>kim larsen</artist>
+        <country>eu</country>
+        <company>medley</company>
+        <price>7.80</price>
+        <year>1983</year>
+    </cd>
+    <cd>
+        <title>pavarotti gala concert</title>
+        <artist>luciano pavarotti</artist>
+        <country>uk</country>
+        <company>decca</company>
+        <price>9.90</price>
+        <year>1991</year>
+    </cd>
+    <cd>
+        <title>the dock of the bay</title>
+        <artist>otis redding</artist>
+        <country>usa</country>
+        <company>stax records</company>
+        <price>7.90</price>
+        <year>1968</year>
+    </cd>
+    <cd>
+        <title>picture book</title>
+        <artist>simply red</artist>
+        <country>eu</country>
+        <company>elektra</company>
+        <price>7.20</price>
+        <year>1985</year>
+    </cd>
+
+
+
+<cd><title>praacticas</title><artist>praacticas</artist><country>praacticas</country><company>praacticas</company><price>
